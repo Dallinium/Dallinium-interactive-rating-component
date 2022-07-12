@@ -22,7 +22,7 @@ Users should be able to:
 
 <!-- ![](./screenshot.jpg) -->
 
-<img src="/src/rating-img.png" height="350" margin-right="10px"><img src="/src/thanks-img.png" height="350">
+<img src="/src/rating-img.png" height="350" margin-right="11px"><img src="/src/thanks-img.png" height="350">
 
 ### Links
 
