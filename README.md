@@ -1,13 +1,13 @@
 # Frontend Mentor - Interactive rating component solution
 
-This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
+- [The challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
 
 ### The challenge
 
@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+<!-- ![](./screenshot.jpg) -->
 
-
+<img src="/src/rating-img.png" height="350" margin-right="10px"><img src="/src/thanks-img.png" height="350">
 
 ### Links
 
@@ -34,4 +34,3 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 - React JS
-
